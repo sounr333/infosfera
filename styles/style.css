@@ -1,0 +1,24 @@
+ body {
+     background-color: lavender;
+ }
+
+ h2 {
+     font-family: 'Jost', sans-serif;
+ }
+
+ a:hover {
+     color: black;
+ }
+
+ .site_menu {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+ }
+
+ .site_header {
+     display: flex;
+     justify-content: space-between;
+ }
+     
+ 
